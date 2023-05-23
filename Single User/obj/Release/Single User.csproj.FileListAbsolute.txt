@@ -1,0 +1,619 @@
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.exe.config
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.exe
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.pdb
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.exe.manifest
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.application
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.exe
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.pdb
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\bin\Release\FarsiLibrary.Resources.dll
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\bin\Release\FarsiLibrary.Utils.dll
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\bin\Release\FarsiLibrary.Win.dll
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\bin\Release\LanguageSelector.dll
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\ResolveAssemblyReference.cache
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.acc.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.alert.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Algorithm.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Receipt.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Bimeh.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Bimeh_j.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.CloseForm.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ChangeForm.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Consultation.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.acc2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.adr5.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.adr_tel.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.AV_Folder.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Px.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Envelop.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Rest.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.chem_note.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.chem_note2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.alert2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Print_Help.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ref_tel.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ref_email.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ref_adr.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.login2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Manage_Template.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PrintOptions.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Register.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.screen_note.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.screen_note2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_adult_note.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_adult_note2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_child_note.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_child_note2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.coun_note.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.coun_note2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_child_note.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_child_note2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_adult_note.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_adult_note2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Envelop.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Printer_Referral.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Invitation.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Invoice.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Rest.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Printer_Px.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Prescription.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Receipt.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.doctor2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Del_Paz.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Full_Summary.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.login.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder_Alarm.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Risk_Factor_Alarm.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Risk2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Referral2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.del_days.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.finyear.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.interaction.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.moein.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.paziresh_archive.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.search_data.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Search2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Search_Print.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.setting2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.shab_roz.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.default_time.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.reset_time.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.email_j.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder3.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.email.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.side_effect.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.tel10.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Tel2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Rx.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.total2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.DrugStore.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Help.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Instruction.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Medical_Library.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.nobat.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Paziresh.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.paziresh2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Photo_Archive.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rDD.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Referral.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Risk_Factor.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rpx.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rip.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rip2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rco.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rco2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rop.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rop2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rpx2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Sb.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Sb2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Research.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Search.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Setting.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.SW3.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.SW2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Medical_File_Closet.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Print_DP.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.SW1.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.newbimeh.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PL.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PL2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.As.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.As2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Ob2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Ob.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.DD.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.OP.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.OP2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.IP.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.IP2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PX.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PX2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PE.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PE2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.FH2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.FH.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PH2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Dx.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.CC.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Patient.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Malol.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.all_info.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.BMI.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Diagnostic.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Dosage.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PH.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PI.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PI2.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Preventive.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Properties.Resources.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Tel.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.total.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.tree.resources
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\ResGen.read.1.tlog
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\ResGen.write.1.tlog
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.TrustInfo.xml
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.exe.manifest
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.application
+I:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.exe.config
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.exe
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.pdb
+I:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.exe.manifest
+I:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.application
+I:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.exe
+I:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.pdb
+I:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\FarsiLibrary.Resources.dll
+I:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\FarsiLibrary.Utils.dll
+I:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\FarsiLibrary.Win.dll
+I:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\LanguageSelector.dll
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\ResolveAssemblyReference.cache
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.acc.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.alert.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Algorithm.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Receipt.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Bimeh.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Bimeh_j.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.CloseForm.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ChangeForm.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Consultation.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.acc2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.adr5.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.adr_tel.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.AV_Folder.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Px.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Envelop.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Rest.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.chem_note.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.chem_note2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.alert2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Print_Help.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ref_tel.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ref_email.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ref_adr.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.login2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Manage_Template.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PrintOptions.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Register.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.screen_note.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.screen_note2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_adult_note.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_adult_note2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_child_note.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_child_note2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.coun_note.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.coun_note2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_child_note.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_child_note2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_adult_note.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_adult_note2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Envelop.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Printer_Referral.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Invitation.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Invoice.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Rest.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Printer_Px.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Prescription.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Receipt.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.doctor2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Del_Paz.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Full_Summary.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.login.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder_Alarm.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Risk_Factor_Alarm.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Risk2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Referral2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.del_days.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.finyear.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.interaction.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.moein.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.paziresh_archive.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.search_data.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Search2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Search_Print.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.setting2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.shab_roz.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.default_time.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.reset_time.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.email_j.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder3.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.email.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.side_effect.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.tel10.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Tel2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Rx.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.total2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.DrugStore.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Help.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Instruction.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Medical_Library.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.nobat.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Paziresh.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.paziresh2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Photo_Archive.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rDD.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Referral.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Risk_Factor.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rpx.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rip.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rip2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rco.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rco2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rop.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rop2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rpx2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Sb.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Sb2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Research.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Search.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Setting.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.SW3.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.SW2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Medical_File_Closet.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Print_DP.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.SW1.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.newbimeh.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PL.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PL2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.As.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.As2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Ob2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Ob.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.DD.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.OP.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.OP2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.IP.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.IP2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PX.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PX2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PE.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PE2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.FH2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.FH.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PH2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Dx.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.CC.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Patient.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Malol.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.all_info.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.BMI.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Diagnostic.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Dosage.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PH.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PI.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PI2.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Preventive.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Properties.Resources.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Tel.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.total.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.tree.resources
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\ResGen.read.1.tlog
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\ResGen.write.1.tlog
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.TrustInfo.xml
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.exe.manifest
+I:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.application
+F:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.exe.config
+F:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.exe.manifest
+F:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.application
+F:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.exe
+F:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.pdb
+F:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\FarsiLibrary.Resources.dll
+F:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\FarsiLibrary.Utils.dll
+F:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\FarsiLibrary.Win.dll
+F:\CM\Dr. Mohit\Clinical Management\Single User\bin\Release\LanguageSelector.dll
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\ResolveAssemblyReference.cache
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.acc.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.alert.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Algorithm.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Receipt.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Bimeh.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Bimeh_j.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.CloseForm.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ChangeForm.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Consultation.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.acc2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.adr5.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.adr_tel.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.AV_Folder.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Px.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Envelop.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Rest.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.chem_note.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.chem_note2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.alert2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.alert3.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Print_Help.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ref_tel.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ref_email.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ref_adr.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.login2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Manage_Template.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PrintOptions.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Register.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.screen_note.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.screen_note2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_adult_note.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_adult_note2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_child_note.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_child_note2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.coun_note.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.coun_note2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_child_note.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_child_note2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_adult_note.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_adult_note2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Envelop.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Printer_Referral.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Invitation.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Invoice.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Rest.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Printer_Px.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Prescription.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Receipt.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.doctor2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Del_Paz.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Full_Summary.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.login.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder_Alarm.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Risk_Factor_Alarm.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Risk2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Referral2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.del_days.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.finyear.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.interaction.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.moein.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.paziresh_archive.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.search_data.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Search2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Search_Print.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.setting2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.shab_roz.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.default_time.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.reset_time.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.email_j.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder3.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.email.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.side_effect.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.tel10.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Tel2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Rx.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.total2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.DrugStore.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Help.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Instruction.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Medical_Library.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.nobat.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Paziresh.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.paziresh2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Photo_Archive.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rDD.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Referral.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Risk_Factor.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rpx.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rip.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rip2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rco.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rco2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rop.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rop2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rpx2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Sb.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Sb2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Research.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Search.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Setting.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.SW3.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.SW2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Medical_File_Closet.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Print_DP.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.SW1.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.newbimeh.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PL.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PL2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.As.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.As2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Ob2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Ob.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.DD.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.OP.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.OP2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.IP.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.IP2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PX.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PX2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PE.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PE2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.FH2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.FH.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PH2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Dx.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.CC.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Patient.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Malol.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.all_info.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.BMI.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Diagnostic.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Dosage.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PH.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PI.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PI2.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Preventive.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Properties.Resources.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Tel.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.total.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.tree.resources
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\ResGen.read.1.tlog
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\ResGen.write.1.tlog
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.TrustInfo.xml
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.exe.manifest
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.application
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.exe
+F:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.pdb
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Single User.csprojResolveAssemblyReference.cache
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.acc.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.alert.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Algorithm.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Receipt.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Bimeh.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Bimeh_j.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.CloseForm.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ChangeForm.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Consultation.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.acc2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.adr5.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.adr_tel.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.AV_Folder.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Px.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Envelop.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Alter_Rest.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.chem_note.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.chem_note2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.alert2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.alert3.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Print_Help.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ref_tel.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ref_email.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.ref_adr.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.login2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Manage_Template.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PrintOptions.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Register.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.screen_note.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.screen_note2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_adult_note.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_adult_note2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_child_note.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.imm_child_note2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.coun_note.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.coun_note2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_child_note.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_child_note2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_adult_note.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.phe_adult_note2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Envelop.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Printer_Referral.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Invitation.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Invoice.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Rest.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Printer_Px.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Prescription.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Receipt.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.doctor2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Del_Paz.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Full_Summary.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.login.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder_Alarm.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Risk_Factor_Alarm.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Risk2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Referral2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.del_days.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.finyear.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.interaction.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.moein.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.paziresh_archive.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.search_data.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Search2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Search_Print.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.setting2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.shab_roz.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.default_time.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.reset_time.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.email_j.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder3.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.email.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.side_effect.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.tel10.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Tel2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Rx.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.total2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.DrugStore.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Help.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Instruction.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Medical_Library.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.nobat.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Paziresh.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.paziresh2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Photo_Archive.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rDD.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Referral.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Reminder.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Risk_Factor.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rpx.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rip.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rip2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rco.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rco2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rop.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rop2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.rpx2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Sb.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Sb2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Research.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Search.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Setting.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.SW3.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.SW2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Medical_File_Closet.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Print_DP.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.SW1.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.newbimeh.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PL.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PL2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.As.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.As2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Ob2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Ob.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.DD.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.OP.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.OP2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.IP.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.IP2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PX.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PX2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PE.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PE2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.FH2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.FH.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PH2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Dx.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.CC.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Patient.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Malol.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.all_info.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.BMI.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Diagnostic.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Dosage.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PH.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PI.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.PI2.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Preventive.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Properties.Resources.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.Tel.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.total.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical_Management.tree.resources
+J:\CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Single User.csproj.GenerateResource.Cache
