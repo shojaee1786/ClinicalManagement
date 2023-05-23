@@ -1,8 +1,10 @@
 # ClinicalManagement
 Clinical Management software is designed for clinical specialists and general physicians, their clerks and secretaries to record patients' full medical data, to help physicians recall medical knowledge and to give them options towards diagnosis and treatment strategies.
+one user friendly and graphic forms in addition to over 120 related interfaces help users to do seven main clerical tasks and full procedures in routine medical diagnosis and treatment. Furthermore, separate but interactive files of Preventive Care are designed for full coverage of total digital recording. Consultation via internet, insurance reports and prescription printing are other features of this software.
 
-       Twenty-one user friendly and graphic forms in addition to over 120 related interfaces help users to do seven main clerical tasks and full procedures in routine medical diagnosis and treatment. Furthermore, separate but interactive files of Preventive Care are designed for full coverage of total digital recording. Consultation via internet, insurance reports and prescription printing are other features of this software.
-       
+
+
+
        A specific code alters this software for use on a single laptop while another code alters the software for multi-users with network capabilities for use with tens or hundreds of computers in multi-specialty polyclinics, wards of hospitals or a small clinic with one or more clerks. Administrator can be a non-physician manager or the physician himself.
 
 
@@ -18,4 +20,4 @@ Clinical Management software is designed for clinical specialists and general ph
 
 
 
-       Remember to keep username and password for the Admin given by the retailer in a safe place. Other codes can be easily changed in the Admin when entered by this code.
+       Remember to keep username and password for the Admin given by the retailer in a safe place. Other codes can be easily changed in the Admin when entered by this
