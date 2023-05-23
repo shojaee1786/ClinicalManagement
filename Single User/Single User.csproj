@@ -1,0 +1,2088 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A70B525F-59D9-4E89-8217-16A10B55B796}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Clinical_Management</RootNamespace>
+    <AssemblyName>Clinical Management</AssemblyName>
+    <ManifestCertificateThumbprint>8601EC0C7D5C27A4EB3069FB2B4F8EBCD87A3C39</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Clinical Management_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>main.ico</ApplicationIcon>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>D:\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ControlPrint, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>I:\Shojaie\C# Print\ControlPrint.dll</HintPath>
+    </Reference>
+    <Reference Include="FarsiLibrary.Resources, Version=1.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\FarsiLibrary.Resources.dll</HintPath>
+    </Reference>
+    <Reference Include="FarsiLibrary.Utils, Version=1.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\FarsiLibrary.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="FarsiLibrary.Win, Version=1.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\FarsiLibrary.Win.dll</HintPath>
+    </Reference>
+    <Reference Include="LanguageSelector, Version=1.0.2450.31890, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\LanguageSelector.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc.Designer.cs">
+      <DependentUpon>acc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="alert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="alert.Designer.cs">
+      <DependentUpon>alert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Algorithm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Algorithm.Designer.cs">
+      <DependentUpon>Algorithm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alter Receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alter Receipt.Designer.cs">
+      <DependentUpon>Alter Receipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bimeh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bimeh.Designer.cs">
+      <DependentUpon>Bimeh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bimeh_j.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bimeh_j.Designer.cs">
+      <DependentUpon>Bimeh_j.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CloseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CloseForm.Designer.cs">
+      <DependentUpon>CloseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cm.cs" />
+    <Compile Include="cmDataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cmDataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeForm.Designer.cs">
+      <DependentUpon>ChangeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultation.Designer.cs">
+      <DependentUpon>Consultation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc2.Designer.cs">
+      <DependentUpon>acc2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adr5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adr5.Designer.cs">
+      <DependentUpon>adr5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adr_tel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adr_tel.Designer.cs">
+      <DependentUpon>adr_tel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AV_Folder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AV_Folder.Designer.cs">
+      <DependentUpon>AV_Folder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alter_Px.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alter_Px.Designer.cs">
+      <DependentUpon>Alter_Px.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alter_Envelop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alter_Envelop.Designer.cs">
+      <DependentUpon>Alter_Envelop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alter_Rest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alter_Rest.Designer.cs">
+      <DependentUpon>Alter_Rest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chem_note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chem_note.Designer.cs">
+      <DependentUpon>chem_note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="chem_note2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chem_note2.Designer.cs">
+      <DependentUpon>chem_note2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="alert2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="alert2.Designer.cs">
+      <DependentUpon>alert2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="alert3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="alert3.Designer.cs">
+      <DependentUpon>alert3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print_Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print_Help.Designer.cs">
+      <DependentUpon>Print_Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ref_tel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ref_tel.Designer.cs">
+      <DependentUpon>ref_tel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ref_email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ref_email.Designer.cs">
+      <DependentUpon>ref_email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ref_adr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ref_adr.Designer.cs">
+      <DependentUpon>ref_adr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login2.Designer.cs">
+      <DependentUpon>login2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage Template.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage Template.Designer.cs">
+      <DependentUpon>Manage Template.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintOptions.designer.cs">
+      <DependentUpon>PrintOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="screen_note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screen_note.Designer.cs">
+      <DependentUpon>screen_note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="screen_note2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screen_note2.Designer.cs">
+      <DependentUpon>screen_note2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="imm_adult_note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="imm_adult_note.Designer.cs">
+      <DependentUpon>imm_adult_note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="imm_adult_note2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="imm_adult_note2.Designer.cs">
+      <DependentUpon>imm_adult_note2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="imm_child_note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="imm_child_note.Designer.cs">
+      <DependentUpon>imm_child_note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="imm_child_note2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="imm_child_note2.Designer.cs">
+      <DependentUpon>imm_child_note2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="coun_note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="coun_note.Designer.cs">
+      <DependentUpon>coun_note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="coun_note2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="coun_note2.Designer.cs">
+      <DependentUpon>coun_note2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="phe_child_note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="phe_child_note.Designer.cs">
+      <DependentUpon>phe_child_note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="phe_child_note2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="phe_child_note2.Designer.cs">
+      <DependentUpon>phe_child_note2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="phe_adult_note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="phe_adult_note.Designer.cs">
+      <DependentUpon>phe_adult_note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="phe_adult_note2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="phe_adult_note2.Designer.cs">
+      <DependentUpon>phe_adult_note2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Envelop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Envelop.Designer.cs">
+      <DependentUpon>Envelop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Printer_Referral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Printer_Referral.Designer.cs">
+      <DependentUpon>Printer_Referral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invitation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invitation.Designer.cs">
+      <DependentUpon>Invitation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice.Designer.cs">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rest.Designer.cs">
+      <DependentUpon>Rest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Printer_Px.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Printer_Px.Designer.cs">
+      <DependentUpon>Printer_Px.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prescription.Designer.cs">
+      <DependentUpon>Prescription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Receipt.Designer.cs">
+      <DependentUpon>Receipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doctor2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doctor2.Designer.cs">
+      <DependentUpon>doctor2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_Paz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_Paz.designer.cs">
+      <DependentUpon>Del_Paz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Full_Summary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Full_Summary.Designer.cs">
+      <DependentUpon>Full_Summary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reminder_Alarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reminder_Alarm.Designer.cs">
+      <DependentUpon>Reminder_Alarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Risk_Factor_Alarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Risk_Factor_Alarm.Designer.cs">
+      <DependentUpon>Risk_Factor_Alarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Risk2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Risk2.Designer.cs">
+      <DependentUpon>Risk2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Referral2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Referral2.Designer.cs">
+      <DependentUpon>Referral2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="del_days.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="del_days.Designer.cs">
+      <DependentUpon>del_days.cs</DependentUpon>
+    </Compile>
+    <Compile Include="finyear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="finyear.Designer.cs">
+      <DependentUpon>finyear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="interaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="interaction.Designer.cs">
+      <DependentUpon>interaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="moein.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="moein.Designer.cs">
+      <DependentUpon>moein.cs</DependentUpon>
+    </Compile>
+    <Compile Include="paziresh_archive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paziresh_archive.Designer.cs">
+      <DependentUpon>paziresh_archive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="search data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="search data.Designer.cs">
+      <DependentUpon>search data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search2.Designer.cs">
+      <DependentUpon>Search2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Print.Designer.cs">
+      <DependentUpon>Search_Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="setting2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setting2.Designer.cs">
+      <DependentUpon>setting2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="shab_roz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shab_roz.Designer.cs">
+      <DependentUpon>shab_roz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="default_time.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="default_time.Designer.cs">
+      <DependentUpon>default_time.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reset_time.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reset_time.Designer.cs">
+      <DependentUpon>reset_time.cs</DependentUpon>
+    </Compile>
+    <Compile Include="email_j.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="email_j.Designer.cs">
+      <DependentUpon>email_j.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reminder3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reminder3.Designer.cs">
+      <DependentUpon>Reminder3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reminder2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reminder2.Designer.cs">
+      <DependentUpon>Reminder2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="email.Designer.cs">
+      <DependentUpon>email.cs</DependentUpon>
+    </Compile>
+    <Compile Include="side effect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="side effect.Designer.cs">
+      <DependentUpon>side effect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tel10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tel10.Designer.cs">
+      <DependentUpon>tel10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tel2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tel2.Designer.cs">
+      <DependentUpon>Tel2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rx.Designer.cs">
+      <DependentUpon>Rx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="total2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="total2.Designer.cs">
+      <DependentUpon>total2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DrugStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DrugStore.Designer.cs">
+      <DependentUpon>DrugStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Help.Designer.cs">
+      <DependentUpon>Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instruction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instruction.Designer.cs">
+      <DependentUpon>Instruction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medical Library.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medical Library.Designer.cs">
+      <DependentUpon>Medical Library.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nobat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nobat.Designer.cs">
+      <DependentUpon>nobat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Paziresh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paziresh.Designer.cs">
+      <DependentUpon>Paziresh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="paziresh2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paziresh2.Designer.cs">
+      <DependentUpon>paziresh2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Photo Archive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Photo Archive.Designer.cs">
+      <DependentUpon>Photo Archive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="rDD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rDD.Designer.cs">
+      <DependentUpon>rDD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Referral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Referral.Designer.cs">
+      <DependentUpon>Referral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reminder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reminder.Designer.cs">
+      <DependentUpon>Reminder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Risk Factor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Risk Factor.Designer.cs">
+      <DependentUpon>Risk Factor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rpx.Designer.cs">
+      <DependentUpon>rpx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rip.Designer.cs">
+      <DependentUpon>rip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rip2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rip2.Designer.cs">
+      <DependentUpon>rip2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rco.Designer.cs">
+      <DependentUpon>rco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rco2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rco2.Designer.cs">
+      <DependentUpon>rco2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rop.Designer.cs">
+      <DependentUpon>rop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rop2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rop2.Designer.cs">
+      <DependentUpon>rop2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpx2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rpx2.Designer.cs">
+      <DependentUpon>rpx2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sb.Designer.cs">
+      <DependentUpon>Sb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sb2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sb2.Designer.cs">
+      <DependentUpon>Sb2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Research.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Research.Designer.cs">
+      <DependentUpon>Research.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search.Designer.cs">
+      <DependentUpon>Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting.Designer.cs">
+      <DependentUpon>Setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SW3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SW3.Designer.cs">
+      <DependentUpon>SW3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SW2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SW2.Designer.cs">
+      <DependentUpon>SW2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medical File Closet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medical File Closet.Designer.cs">
+      <DependentUpon>Medical File Closet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print_DP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print_DP.Designer.cs">
+      <DependentUpon>Print_DP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SW1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SW1.Designer.cs">
+      <DependentUpon>SW1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newbimeh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newbimeh.Designer.cs">
+      <DependentUpon>newbimeh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL.Designer.cs">
+      <DependentUpon>PL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL2.Designer.cs">
+      <DependentUpon>PL2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="As.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="As.Designer.cs">
+      <DependentUpon>As.cs</DependentUpon>
+    </Compile>
+    <Compile Include="As2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="As2.Designer.cs">
+      <DependentUpon>As2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ob2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ob2.Designer.cs">
+      <DependentUpon>Ob2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ob.Designer.cs">
+      <DependentUpon>Ob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DD.Designer.cs">
+      <DependentUpon>DD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OP.Designer.cs">
+      <DependentUpon>OP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OP2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OP2.Designer.cs">
+      <DependentUpon>OP2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IP.Designer.cs">
+      <DependentUpon>IP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IP2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IP2.Designer.cs">
+      <DependentUpon>IP2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PX.Designer.cs">
+      <DependentUpon>PX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PX2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PX2.Designer.cs">
+      <DependentUpon>PX2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PE.Designer.cs">
+      <DependentUpon>PE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PE2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PE2.Designer.cs">
+      <DependentUpon>PE2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FH2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FH2.Designer.cs">
+      <DependentUpon>FH2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FH.Designer.cs">
+      <DependentUpon>FH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PH2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PH2.Designer.cs">
+      <DependentUpon>PH2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dx.Designer.cs">
+      <DependentUpon>Dx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CC.designer.cs">
+      <DependentUpon>CC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient.Designer.cs">
+      <DependentUpon>Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Malol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Malol.Designer.cs">
+      <DependentUpon>Malol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="all_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="all_info.Designer.cs">
+      <DependentUpon>all_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BMI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BMI.Designer.cs">
+      <DependentUpon>BMI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diagnostic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagnostic.Designer.cs">
+      <DependentUpon>Diagnostic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dosage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dosage.Designer.cs">
+      <DependentUpon>Dosage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PH.Designer.cs">
+      <DependentUpon>PH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PI.Designer.cs">
+      <DependentUpon>PI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PI2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PI2.Designer.cs">
+      <DependentUpon>PI2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Preventive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Preventive.Designer.cs">
+      <DependentUpon>Preventive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="acc.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>acc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="alert.resx">
+      <DependentUpon>alert.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Algorithm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Algorithm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alter Receipt.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Alter Receipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bimeh.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Bimeh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bimeh_j.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Bimeh_j.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CloseForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CloseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeForm.resx">
+      <DependentUpon>ChangeForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Consultation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc2.resx">
+      <DependentUpon>acc2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adr5.resx">
+      <DependentUpon>adr5.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adr_tel.resx">
+      <DependentUpon>adr_tel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AV_Folder.resx">
+      <DependentUpon>AV_Folder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alter_Px.resx">
+      <DependentUpon>Alter_Px.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alter_Envelop.resx">
+      <DependentUpon>Alter_Envelop.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alter_Rest.resx">
+      <DependentUpon>Alter_Rest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chem_note.resx">
+      <DependentUpon>chem_note.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chem_note2.resx">
+      <DependentUpon>chem_note2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="alert2.resx">
+      <DependentUpon>alert2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="alert3.resx">
+      <DependentUpon>alert3.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print_Help.resx">
+      <DependentUpon>Print_Help.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ref_tel.resx">
+      <DependentUpon>ref_tel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ref_email.resx">
+      <DependentUpon>ref_email.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ref_adr.resx">
+      <DependentUpon>ref_adr.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login2.resx">
+      <DependentUpon>login2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage Template.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Manage Template.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintOptions.resx">
+      <DependentUpon>PrintOptions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screen_note.resx">
+      <DependentUpon>screen_note.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screen_note2.resx">
+      <DependentUpon>screen_note2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="imm_adult_note.resx">
+      <DependentUpon>imm_adult_note.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="imm_adult_note2.resx">
+      <DependentUpon>imm_adult_note2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="imm_child_note.resx">
+      <DependentUpon>imm_child_note.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="imm_child_note2.resx">
+      <DependentUpon>imm_child_note2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="coun_note.resx">
+      <DependentUpon>coun_note.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="coun_note2.resx">
+      <DependentUpon>coun_note2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="phe_child_note.resx">
+      <DependentUpon>phe_child_note.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="phe_child_note2.resx">
+      <DependentUpon>phe_child_note2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="phe_adult_note.resx">
+      <DependentUpon>phe_adult_note.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="phe_adult_note2.resx">
+      <DependentUpon>phe_adult_note2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Envelop.resx">
+      <DependentUpon>Envelop.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printer_Referral.resx">
+      <DependentUpon>Printer_Referral.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invitation.resx">
+      <DependentUpon>Invitation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice.resx">
+      <DependentUpon>Invoice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rest.resx">
+      <DependentUpon>Rest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printer_Px.resx">
+      <DependentUpon>Printer_Px.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prescription.resx">
+      <DependentUpon>Prescription.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Receipt.resx">
+      <DependentUpon>Receipt.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doctor2.resx">
+      <DependentUpon>doctor2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_Paz.resx">
+      <DependentUpon>Del_Paz.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Full_Summary.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Full_Summary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reminder_Alarm.resx">
+      <DependentUpon>Reminder_Alarm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Risk_Factor_Alarm.resx">
+      <DependentUpon>Risk_Factor_Alarm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Risk2.resx">
+      <DependentUpon>Risk2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Referral2.resx">
+      <DependentUpon>Referral2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="del_days.resx">
+      <DependentUpon>del_days.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finyear.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>finyear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="interaction.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>interaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="moein.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>moein.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paziresh_archive.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>paziresh_archive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="search data.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>search data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Search2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Print.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Search_Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setting2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>setting2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="shab_roz.resx">
+      <DependentUpon>shab_roz.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="default_time.resx">
+      <DependentUpon>default_time.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reset_time.resx">
+      <DependentUpon>reset_time.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="email_j.resx">
+      <DependentUpon>email_j.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reminder3.resx">
+      <DependentUpon>Reminder3.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reminder2.resx">
+      <DependentUpon>Reminder2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="email.resx">
+      <DependentUpon>email.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="side effect.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>side effect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tel10.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>tel10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tel2.resx">
+      <DependentUpon>Tel2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rx.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Rx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="total2.resx">
+      <DependentUpon>total2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DrugStore.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DrugStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instruction.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Instruction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medical Library.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Medical Library.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nobat.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>nobat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paziresh.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Paziresh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paziresh2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>paziresh2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Photo Archive.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Photo Archive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rDD.resx">
+      <DependentUpon>rDD.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Referral.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Referral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reminder.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Reminder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Risk Factor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Risk Factor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpx.resx">
+      <DependentUpon>rpx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rip.resx">
+      <DependentUpon>rip.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rip2.resx">
+      <DependentUpon>rip2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rco.resx">
+      <DependentUpon>rco.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rco2.resx">
+      <DependentUpon>rco2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rop.resx">
+      <DependentUpon>rop.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rop2.resx">
+      <DependentUpon>rop2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpx2.resx">
+      <DependentUpon>rpx2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sb.resx">
+      <DependentUpon>Sb.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sb2.resx">
+      <DependentUpon>Sb2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Research.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Research.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SW3.resx">
+      <DependentUpon>SW3.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SW2.resx">
+      <DependentUpon>SW2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medical File Closet.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Medical File Closet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print_DP.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Print_DP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SW1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SW1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newbimeh.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>newbimeh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL.resx">
+      <DependentUpon>PL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL2.resx">
+      <DependentUpon>PL2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="As.resx">
+      <DependentUpon>As.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="As2.resx">
+      <DependentUpon>As2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ob2.resx">
+      <DependentUpon>Ob2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ob.resx">
+      <DependentUpon>Ob.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DD.resx">
+      <DependentUpon>DD.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OP.resx">
+      <DependentUpon>OP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OP2.resx">
+      <DependentUpon>OP2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IP.resx">
+      <DependentUpon>IP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IP2.resx">
+      <DependentUpon>IP2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PX.resx">
+      <DependentUpon>PX.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PX2.resx">
+      <DependentUpon>PX2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PE.resx">
+      <DependentUpon>PE.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PE2.resx">
+      <DependentUpon>PE2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FH2.resx">
+      <DependentUpon>FH2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FH.resx">
+      <DependentUpon>FH.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PH2.resx">
+      <DependentUpon>PH2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dx.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Dx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CC.resx">
+      <DependentUpon>CC.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Malol.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Malol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="all_info.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>all_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BMI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BMI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diagnostic.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Diagnostic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dosage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Dosage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PI2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PI2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Preventive.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Preventive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Tel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="total.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>total.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tree.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>tree.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Tel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tel.Designer.cs">
+      <DependentUpon>Tel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="total.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="total.Designer.cs">
+      <DependentUpon>total.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tree.Designer.cs">
+      <DependentUpon>tree.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Line.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NY_NY080.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NY_NY100.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AV090.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back grouns ,Icons\پرونده جدید.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitled.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back grouns ,Icons\Consultation Via.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back grouns ,Icons\14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sec.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Patient Profile.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drug Store.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Photo Archive.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Risk Factor Alarm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Referral.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Consultation.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Algorithm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Medical Library.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Research.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Patient Manager.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\100.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SW1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monshi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paziresh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baygani.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bimeh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nobat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sw22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monshi1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nobat1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paziresh1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bayegani.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adr1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yad1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bimeh1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sw33.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back grouns ,Icons\Research.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Research1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Research2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\algorithm.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back grouns ,Icons\English.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Clinical Management_TemporaryKey.pfx" />
+    <BaseApplicationManifest Include="Properties\app.manifest" />
+    <None Include="Resources\Back grouns ,Icons\Farsi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hour.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3_11.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24_1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Parvandehjadid.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\collection.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0background2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\71.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4a.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4b.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4c.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parviz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monet-nympheas-1905-artcyclopedia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interaction1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\side1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="0.ico" />
+    <Content Include="main.ico" />
+    <None Include="Resources\2.ico" />
+    <None Include="Resources\nopic13.gif" />
+    <None Include="Resources\nopic12.gif" />
+    <None Include="Resources\fe_nopic.gif" />
+    <None Include="Resources\rezahskchx.jpg" />
+    <None Include="Resources\Consultation545454saef.JPG" />
+    <None Include="Resources\ref4533.jpg" />
+    <None Include="Resources\New P120000.jpg" />
+    <None Include="Resources\Slide3100.JPG" />
+    <None Include="Resources\Slide5100.JPG" />
+    <None Include="Resources\mkdlfg.JPG" />
+    <None Include="Resources\ytrmnc.JPG" />
+    <None Include="Resources\kdjfgddt.jpg" />
+    <None Include="Resources\Slide56utggggg.JPG" />
+    <None Include="Resources\Slide51_22.JPG" />
+    <None Include="Resources\fdrgt.JPG" />
+    <None Include="Resources\Slide4254454.JPG" />
+    <None Include="Resources\kjewrgfjnw.JPG" />
+    <None Include="Resources\Enter.gif" />
+    <None Include="Resources\New Picture %284%29ldkfjlkje.bmp" />
+    <None Include="Resources\wafrewedr.jpg" />
+    <None Include="Resources\IMG_04421lkjrht.jpg" />
+    <None Include="Resources\wafrew.jpg" />
+    <None Include="Resources\New Picture %282%29.bmp" />
+    <None Include="Resources\Input.bmp" />
+    <None Include="Resources\Edit1.bmp" />
+    <None Include="Resources\dcvbrfgt.bmp" />
+    <None Include="Resources\yuk7kiyuik.bmp" />
+    <None Include="Resources\New Picture1512.bmp" />
+    <None Include="Resources\Slide16.JPG" />
+    <None Include="Resources\Slide13.JPG" />
+    <None Include="Resources\Slide8.JPG" />
+    <None Include="Resources\Slide12.JPG" />
+    <None Include="Resources\Slide6.JPG" />
+    <None Include="Resources\Slide5.JPG" />
+    <None Include="Resources\Slide3.JPG" />
+    <None Include="Resources\11.jpg" />
+    <None Include="Resources\Monet Painting in His Garden by Renoirjh.bmp" />
+    <None Include="Resources\water lilies 1922rds.bmp" />
+    <None Include="Resources\Assistant212.gif" />
+    <None Include="Resources\Bakup.gif" />
+    <None Include="Resources\Import2.JPG" />
+    <None Include="Resources\calculatore1.bmp" />
+    <None Include="Resources\sunrise1.jpg" />
+    <None Include="Resources\The_Garden_in_Flower_CGF.jpg" />
+    <None Include="Resources\Jeanne_Marguerite_Lecadre_in_the_Garden_CGF.jpg" />
+    <None Include="Resources\gozineh212541.bmp" />
+    <None Include="Resources\Answering Phone.bmp" />
+    <None Include="Resources\doctors.jpg" />
+    <None Include="Resources\gozineh21254.bmp" />
+    <None Include="Resources\main1.ico" />
+    <None Include="Resources\gozineh.bmp" />
+    <None Include="Resources\information.bmp" />
+    <None Include="Resources\Forward1.gif" />
+    <None Include="Resources\backward.gif" />
+    <None Include="Resources\main.ico" />
+    <None Include="Resources\doctors.bmp" />
+    <None Include="Resources\Word.bmp" />
+    <None Include="Resources\Delete.gif" />
+    <None Include="Resources\Edit.bmp" />
+    <None Include="Resources\Add1.gif" />
+    <None Include="Resources\Forward.gif" />
+    <None Include="Resources\backup.bmp" />
+    <None Include="app.config" />
+    <None Include="cmDataSet12.xsc">
+      <DependentUpon>cmDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="cmDataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>cmDataSet12.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="cmDataSet12.xss">
+      <DependentUpon>cmDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\printer2.jpg" />
+    <None Include="Resources\MedFileCloset.bmp" />
+    <None Include="Resources\windel1.bmp" />
+    <None Include="Resources\Save3.bmp" />
+    <None Include="Resources\HELP.bmp" />
+    <None Include="Resources\printer1.jpg" />
+    <None Include="Resources\Save2.bmp" />
+    <None Include="Resources\printer.bmp" />
+    <None Include="Resources\envelop.bmp" />
+    <None Include="Resources\gffg5454.bmp" />
+    <None Include="Resources\shell32_dll_104.bmp" />
+    <None Include="Resources\STARTM.jpg" />
+    <None Include="Resources\Delete All.ico" />
+    <None Include="Resources\Import1.JPG" />
+    <None Include="Resources\0110.jpg" />
+    <None Include="Resources\0113.jpg" />
+    <None Include="Resources\KS12724.bmp" />
+    <None Include="Resources\monetjapanesefootbridge.jpg" />
+    <None Include="Resources\windel.bmp" />
+    <None Include="Resources\red.jpg" />
+    <None Include="Resources\search data.bmp" />
+    <None Include="Resources\Save1.bmp" />
+    <None Include="Resources\help2.bmp" />
+    <None Include="Resources\Ok1.bmp" />
+    <None Include="Resources\Ok.bmp" />
+    <None Include="Resources\guery2.bmp" />
+    <None Include="Resources\Save.bmp" />
+    <None Include="Resources\5445.bmp" />
+    <None Include="Resources\1296R-210.bmp" />
+    <None Include="Resources\Bateaux dans le port de Honfleur.jpg" />
+    <None Include="Resources\The_Garden_of_the_Princess_CGF.jpg" />
+    <None Include="Resources\moneglis.jpg" />
+    <None Include="Resources\Monet_Beach_at_Honfleux.jpg" />
+    <None Include="Resources\Garden at Giverny.jpg" />
+    <None Include="Resources\paziresh6.JPG" />
+    <None Include="Resources\printer.jpg" />
+    <None Include="Resources\KS127792.bmp" />
+    <None Include="Resources\paziresh5.JPG" />
+    <None Include="Resources\paziresh4.JPG" />
+    <None Include="Resources\paziresh3.JPG" />
+    <None Include="Resources\copy.JPG" />
+    <None Include="Resources\KS127791.bmp" />
+    <None Include="Resources\KS12779.bmp" />
+    <None Include="Resources\Garden at Sainte-Adresse, 1867.jpg" />
+    <None Include="Resources\on a Boat, Monet.jpg" />
+    <None Include="Resources\pp.bmp" />
+    <None Include="Resources\Import.jpg" />
+    <None Include="Resources\paziresh2.JPG" />
+    <None Include="Resources\camera1.JPG" />
+    <None Include="Resources\Video Clip.JPG" />
+    <None Include="Resources\camera.JPG" />
+    <None Include="Resources\Dictaphone.JPG" />
+    <None Include="Resources\sunrise.jpg" />
+    <None Include="Resources\7537_wallpaper280.jpg" />
+    <None Include="Resources\32.jpg" />
+    <None Include="Resources\21.jpg" />
+    <None Include="Resources\1.jpg" />
+    <None Include="Resources\Photo Archive1.jpg" />
+    <None Include="Resources\Parvandehjadid65.jpg" />
+    <None Include="Resources\7549_wallpaper280.jpg" />
+    <None Include="Resources\5.bmp" />
+    <None Include="Resources\456.jpg" />
+    <None Include="Resources\srchui_dll_1.bmp" />
+    <None Include="Resources\1000001.jpg" />
+    <None Include="Resources\100000.jpg" />
+    <None Include="Resources\Questions111.jpg" />
+    <None Include="Resources\Unistall.ico" />
+    <None Include="Resources\Questions11.jpg" />
+    <None Include="Resources\0026.jpg" />
+    <None Include="Resources\Baygany1.jpg" />
+    <None Include="Resources\Baygany.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
