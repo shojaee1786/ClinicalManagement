@@ -1,0 +1,3 @@
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\bin\Release\Clinical Management.exe.config
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.exe
+I:\Last CM\Dr. Mohit\Clinical Management\Single User\obj\Release\Clinical Management.pdb
